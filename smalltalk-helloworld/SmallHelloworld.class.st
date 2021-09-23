@@ -11,5 +11,6 @@ SmallHelloworld >> new [
 			
 	| temporary variable names |
 	statements"
-	^ 'Hello, World!'.
+	
+	^ 'Hello, World! Welcome to Pharo!'.
 ]
